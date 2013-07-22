@@ -5,7 +5,11 @@ package domain;
  * User: ciprianosanchez
  * Date: 7/21/13
  * Time: 12:10 PM
- * To change this template use File | Settings | File Templates.
+ *
+ * This class represents the Book domain model. Real life domain models
+ * normally will include getters and setters to access the object's fields
+ *
+ * @link
  */
 public class Book
 {

@@ -9,7 +9,11 @@ import domain.Book;
  * User: ciprianosanchez
  * Date: 7/21/13
  * Time: 12:07 PM
- * To change this template use File | Settings | File Templates.
+ *
+ * This class represents a contract implementation of {@link BookService} interface.
+ * Feel free to implement your own business objects if you require to do so.
+ *
+ * @link
  */
 public class BookServiceImpl implements BookService
 {

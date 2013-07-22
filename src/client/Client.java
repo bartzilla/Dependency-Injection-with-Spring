@@ -11,14 +11,10 @@ import service.BookService;
  * User: ciprianosanchez
  * Date: 7/21/13
  * Time: 12:05 PM
- * To change this template use File | Settings | File Templates.
- */
-
-/**
- * Test harness for the . This require the following preconditions:
  *
- * @author BalusC
- * @link http://balusc.blogspot.com/2008/07/dao-tutorial-data-layer.html
+ * Harness client for the Book Store application
+ *
+ * @link
  */
 
 public class Client
