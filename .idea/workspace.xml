@@ -25,10 +25,15 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687ab148-b7c7-4bc4-a551-8d35a7598c3e" name="Default" comment="" />
+    <list default="true" id="687ab148-b7c7-4bc4-a551-8d35a7598c3e" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Invoice.iml" afterPath="$PROJECT_DIR$/Book Store.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/client/Client.java" afterPath="$PROJECT_DIR$/src/client/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Invoice.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Client.java" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374430493698" ignored="false" />
+    <file path="/Client.java" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374512540445" ignored="false" />
     <file path="/InvoiceDao.java" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374415172071" ignored="false" />
     <file path="/InvoiceService.java" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374417699012" ignored="false" />
     <file path="/Invoice.java" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374414325921" ignored="false" />
@@ -37,8 +42,8 @@
     <file path="/BookDao.java" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374415154734" ignored="false" />
     <file path="/BookDaoImpl.java" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374415170060" ignored="false" />
     <file path="/spring-config.xml" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374430740781" ignored="false" />
-    <file path="/Dummy.txt" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374434691050" ignored="false" />
-    <file path="$PROJECT_DIR$/atlassian-ide-plugin.xml" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374434709464" ignored="false" />
+    <file path="/Dummy.txt" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374512227183" ignored="false" />
+    <file path="$PROJECT_DIR$/../../swinkaSourceTree/cockpitng/atlassian-ide-plugin.xml" changelist="687ab148-b7c7-4bc4-a551-8d35a7598c3e" time="1374512572899" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +107,7 @@
       <file leaf-file-name="Client.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/client/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="62" selection-start="842" selection-end="842" vertical-scroll-proportion="0.49822065">
+            <state line="17" column="24" selection-start="390" selection-end="390" vertical-scroll-proportion="0.3024911">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -122,7 +127,7 @@
       <file leaf-file-name="BookServiceImpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/service/BookServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="43" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+            <state line="21" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -131,7 +136,7 @@
       <file leaf-file-name="BookDao.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/dao/BookDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="80" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -172,7 +177,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -226,7 +231,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,6 +251,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -255,7 +260,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Invoice" />
+              <option name="myItemId" value="Book Store" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,7 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Invoice" />
+              <option name="myItemId" value="Book Store" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -279,7 +284,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Invoice" />
+              <option name="myItemId" value="Book Store" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -293,7 +298,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Invoice" />
+              <option name="myItemId" value="Book Store" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -307,7 +312,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Invoice" />
+              <option name="myItemId" value="Book Store" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -365,19 +370,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -404,6 +396,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -596,6 +601,20 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dao/BookDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="43" selection-start="235" selection-end="242" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domain/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="27" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/client/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="62" selection-start="842" selection-end="842" vertical-scroll-proportion="0.0">
@@ -656,14 +675,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/service/BookServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="43" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
+        <state line="21" column="0" selection-start="420" selection-end="420" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/dao/BookDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="80" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -691,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/client/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="62" selection-start="842" selection-end="842" vertical-scroll-proportion="0.49822065">
+        <state line="17" column="24" selection-start="390" selection-end="390" vertical-scroll-proportion="0.3024911">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
