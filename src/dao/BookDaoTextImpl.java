@@ -14,10 +14,10 @@ import domain.Book;
  *
  * @link
  */
-public class BookDaoImpl implements BookDao
+public class BookDaoTextImpl implements BookDao
 {
     public void save(Book book)
     {
-        System.out.println("Saving book: " + book);
+        System.out.println("Saving book: " + book + " in a Plain Text");
     }
 }

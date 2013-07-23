@@ -1,6 +1,5 @@
 package service;
 
-import dao.BookDaoImpl;
 import dao.BookDao;
 import domain.Book;
 
