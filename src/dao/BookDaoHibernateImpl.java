@@ -14,6 +14,6 @@ public class BookDaoHibernateImpl implements BookDao
     @Override
     public void save(Book book)
     {
-        System.out.println("Saving book: " + book + " using the Hibernate");
+        System.out.println("Saving book: " + book + " using Hibernate");
     }
 }
